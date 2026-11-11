@@ -1,0 +1,6 @@
+Repository history snapshot. Initial scaffold was AI-assisted; this is not a record of student contributions.
+
+81fbc61 Strengthen CSP, CNN inference, correction search and evaluation
+e35819b Prepare P7 Sudoku reader and solver project scaffold
+
+Add real team-member commits and complete CONTRIBUTIONS_TEMPLATE.md before submission.
